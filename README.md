@@ -40,17 +40,18 @@ On the other hand, we collected CSV files from the following sources:
 
 2)
 
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
-
 ## Database
 
 Our database has 5 tables. The database is called mammals_climate_change and the five tables into the database are named animals_database_project_csv, country_codes_final_csv, forest_csv, protected_areas_csv and table_awionline_mammals_csv.
 The table_awionline_mammals_csv is connected to the table named animals_database_project_csv through the animal species. Then, the latest table is connected to the table forest_csv through countries. To connect forest_csv to protected_areas_csv, to analyse potential relationship between enganderous animals, countries, deforestation and protected areas, a table named country_codes_final_csv was created since the latest file had only the country codes and we needed the connection with the country names.
 
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+
+The workflow was outlined in Trello (link on Links). The first step was to discuss the topic and achieve an agreement. Afterwards, we thought individually what we aimed for as personal development and what are our strengths and weaknesses. Then, we researched individually websites that could be explored within the topic chosen: animal protection and endengerous species. 
+After brainstorming about our findings, each one of us was in charge of collecting and cleaning one dataset. We had several pitstops to check the status of the project and if help was needed among the team members. 
+In the end, we created a database in SQL with the data collected and connected the data for analysis acording to the Database connectiong explained in the previous point.
+
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
