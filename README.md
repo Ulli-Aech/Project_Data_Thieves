@@ -42,7 +42,7 @@ Regarding the web scrapping, the following sources were used:
 It contains data about deforestation and biodiversity.
 
 2) https://awionline.org/content/list-endangered-species#mammals
-It contains data about mammalls and how endengerous as a species they are
+It contains data about mammalls and how endengered as a species they are
 
 On the other hand, we collected CSV files from the following sources:
 
@@ -59,12 +59,12 @@ On the other hand, we collected CSV files from the following sources:
 ## Database
 
 Our database has 5 tables. The database is called mammals_climate_change and the five tables into the database are named animals_database_project_csv, country_codes_final_csv, forest_csv, protected_areas_csv and table_awionline_mammals_csv.
-The table_awionline_mammals_csv is connected to the table named animals_database_project_csv through the mammal species. Then, the latest table is connected to the table forest_csv through countries. To connect forest_csv to protected_areas_csv, to analyse potential relationship between enganderous animals, countries, deforestation and protected areas, a table named country_codes_final_csv was created since the latest file had only the country codes and we needed the connection with the country names.
+The table_awionline_mammals_csv is connected to the table named animals_database_project_csv through the mammal species. Then, the latest table is connected to the table forest_csv through countries. To connect forest_csv to protected_areas_csv, to analyse potential relationship between engandered mammals, countries, deforestation and protected areas, a table named country_codes_final_csv was created since the latest file had only the country codes and we needed the connection with the country names.
 
 
 ## Workflow
 
-The workflow was outlined in Trello (link on Links). The first step was to discuss the topic and achieve an agreement. Afterwards, we reflected individually about what we aimed for as personal development and what were our strengths and weaknesses. Then, we researched individually websites that could be explored within the topic chosen: mammal endengerous species and forestation. 
+The workflow was outlined in Trello (link on Links). The first step was to discuss the topic and achieve an agreement. Afterwards, we reflected individually about what we aimed for as personal development and what were our strengths and weaknesses. Then, we researched individually websites that could be explored within the topic chosen: mammal endengered species and forestation. 
 After brainstorming about our findings, each one of us was in charge of collecting and cleaning one dataset. We had several checkpoints to communicate the status of the project and if help was needed among the team members. 
 In the end, we created a database in SQL with the data collected and connected the data for analysis acording to the Database connectiong explained on the previous point.
 The goal of Day One was to have each one of us with a raw dataset and potentially cleaned already (and a repository created obviously). By the end of Day Two, the goal was to have our tables merged successfully, a database ready to be analysed/ already analysed and the repository organised (CSV, jupyter notebook files, read file,etc). The last step was to create a presentation for the project.
