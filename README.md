@@ -19,10 +19,21 @@ First group project
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+
+The goal of our project is to analyse a potential correlation between endengerous mammal species and deforestation/ protected areas by country. We chose it based on group interests, application to reality and complexity of the subject.
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+
+With this project, we created an hypotheses that our data analysis would postively correlate deforestation by country and amount of endangerous species. 
+
+Throughout the project, we focused on answering the following questions:
+
+1) Are countries with less protected areas having a bigger amount of mammals classified as endangerous species?
+2) How are protected areas and deforestation related?
+
+(...)
+
 
 ## Dataset
 In this project we decided to collect and analyse data from four different sources. Two of the datasets were collected via web scrapping and the other two datasets via csv file. 
@@ -32,13 +43,19 @@ Regarding the web scrapping, the following sources were used:
 It contains data about deforestation and biodiversity.
 
 2) https://awionline.org/content/list-endangered-species#mammals
-It contains data about mammalls and their conservation status.
+It contains data about mammalls and how endengerous as a species they are
 
 On the other hand, we collected CSV files from the following sources:
 
 1)
 
+- Mammals by location classified by conservation status
+
 2)
+
+- Timeline evolution of the percentage of protected areas by country (table with country code only, additional table was added to merge the country names)
+
+
 
 ## Database
 
