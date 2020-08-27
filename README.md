@@ -43,6 +43,10 @@ On the other hand, we collected CSV files from the following sources:
 What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
 
 ## Database
+
+Our database has 5 tables. The database is called mammals_climate_change and the five tables into the database are named animals_database_project_csv, country_codes_final_csv, forest_csv, protected_areas_csv and table_awionline_mammals_csv.
+The table_awionline_mammals_csv is connected to the table named animals_database_project_csv through the animal species. Then, the latest table is connected to the table forest_csv through countries. To connect forest_csv to protected_areas_csv, to analyse potential relationship between enganderous animals, countries, deforestation and protected areas, a table named country_codes_final_csv was created since the latest file had only the country codes and we needed the connection with the country names.
+
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?
 
 ## Workflow
