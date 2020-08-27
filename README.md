@@ -24,11 +24,11 @@ The goal of our project was to analyse a potential correlation between endengero
 
 ## Questions & Hypotheses
 
-With this project, we created an hypotheses that our data analysis would postively correlate deforestation by country and amount of endangerous mammal species. 
+With this project, we created an hypotheses that our data analysis would postively correlate deforestation by country and amount of endangered mammal species. 
 
 Throughout the project, we focused on answering the following questions:
 
-1) Are countries with less protected areas having a bigger amount of mammals classified as endangerous species?
+1) Are countries with less protected areas having a bigger amount of mammals classified as endangered species?
 2) How are protected areas and deforestation related?
 
 (...)
