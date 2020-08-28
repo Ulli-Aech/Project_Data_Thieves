@@ -76,12 +76,10 @@ The goal of Day One was to have each one of us with a raw dataset and potentiall
 We used Trello (please check Links) to organise our workflow, which is described on the previous point.
 
 Our repository has:
+ - directory with all notebooks
+ - directory with all csv's
+ - directory with all sql related files incl. the dumpfile of the database
 
-
-
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
 
