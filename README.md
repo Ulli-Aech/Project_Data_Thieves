@@ -88,5 +88,5 @@ What does your repository look like? Explain your folder and file structure.
 The links to repository, presentation slides and trello board are:
 
 [Repository](https://github.com/Ulli-H/Project_Data_Thieves)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1zFdMsNA1UZ_5v_IGiuuXPCY58y51X_iRUX6ybF2IQnE/edit#slide=id.p)  
 [Trello](https://trello.com/b/3qItqwRG/team-falafel-project-1)  
